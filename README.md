@@ -278,7 +278,6 @@
                 <td data-label="GURU MAPEL">PAK SULUNG</td>
 			</tr>
 		</tbody>
-	</table>
     <br>
     <br>
     <table>
@@ -377,6 +376,7 @@
                 <td data-label="GURU MAPEL" class="td1">BU AMEL</td>
 			</tr>
 		</tbody>
+	</table>
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>X TKJ 2</title>
@@ -44,6 +45,7 @@
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>CONTACT</p>
   </a>
+</a>
 </nav>
 
 <!-- Navbar on small screens (Hidden on medium and large screens) -->
@@ -434,6 +436,7 @@
           <li class="w3-padding-16">DEMI MEWUJUDKAN</li>
           <li class="w3-padding-16">MASA DEPAN</li>
           <li class="w3-padding-16">YANG INDAH</li>
+          <li class="w3-padding-16">
             <h2>(●'◡'●)</h2>
             <span class="w3-opacity">setiap hari</span>
           </li>
@@ -450,6 +453,7 @@
           <li class="w3-padding-16">ORANG TUA</li>
           <li class="w3-padding-16">YANG HARUS</li>
           <li class="w3-padding-16">DIBAHAGIAKAN</li>
+          <li class="w3-padding-16">
             <h2>(●'◡'●)</h2>
             <span class="w3-opacity">di kemudian hari</span>
           </li>

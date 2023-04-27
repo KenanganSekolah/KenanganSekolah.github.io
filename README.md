@@ -27,7 +27,7 @@
   <img src="XTKJ266.jpg" style="width:100%">
   <a href="#rumah" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
-    <p>HOME</p>
+    <p>RUMAH</p>
   </a>
   <a href="#jadwal" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-book w3-xxlarge"></i>
@@ -35,15 +35,15 @@
   </a>
   <a href="#tentang" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
-    <p>ABOUT</p>
+    <p>TTENTANG</p>
   </a>
   <a href="#foto" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>
-    <p>PHOTOS</p>
+    <p>FOTO</p>
   </a>
   <a href="#kontak" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-envelope w3-xxlarge"></i>
-    <p>CONTACT</p>
+    <p>KONTAK</p>
   </a>
 </nav>
 

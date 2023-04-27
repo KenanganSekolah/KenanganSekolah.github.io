@@ -79,13 +79,6 @@
                 		<th class="th"></th>
 		</tr>
 	</thead>
-        <thead>
-		<tr>
-				<th class="th">PELAJARAN</th>
-                        	<th class="th">JAM</th>
-                 		<th class="th">GURU MAPEL</th>
-		</tr>
-	</thead>
 	<tbody>
 		<tr>
 				<td data-label="Nama">SBK </td>
@@ -131,13 +124,6 @@
 				<th class="th"></th>
                 		<th class="th">SElASA</th>
                		 	<th class="th"></th>
-		</tr>
-	</thead>
-       	 <thead>
-		<tr>
-				<th class="th">PELAJARAN</th>
-                		<th class="th">JAM</th>
-                		<th class="th">GURU MAPEL</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -187,13 +173,6 @@
                 		<th class="th"></th>
 		</tr>
 	</thead>
-        <thead>
-		<tr>
-				<th class="th">PELAJARAN</th>
-                		<th class="th">JAM</th>
-                		<th class="th">GURU MAPEL</th>
-		</tr>
-	</thead>
 	<tbody>
 		<tr>
 				<td data-label="Nama">PEROGRAMAN DASAR</td>
@@ -241,13 +220,6 @@
                			 <th class="th"></th>
 		</tr>
 	</thead>
-        <thead>
-		<tr>
-				<th class="th">PELAJARAN</th>
-                		<th class="th">JAM</th>
-                		<th class="th">GURU MAPEL</th>
-		</tr>
-	</thead>
 	<tbody>
 		<tr>
 				<td data-label="Nama">KJD</td>
@@ -290,13 +262,6 @@
                 		<th class="th"></th>
 		</tr>
 	</thead>
-        <thead>
-		<tr>
-				<th class="th">PELAJARAN</th>
-                		<th class="th">JAM</th>
-                		<th class="th">GURU MAPEL</th>
-		</tr>
-	</thead>
 	<tbody>
 		<tr>
 				<td data-label="Nama">MATEMATIKA</td>
@@ -329,16 +294,9 @@
                 		<th class="th"></th>
 		</tr>
 	</thead>
-        <thead>
-		<tr>
-				<th class="th">PELAJARAN</th>
-                		<th class="th">JAM</th>
-                		<th class="th">GURU MAPEL</th>
-		</tr>
-	</thead>
 	<tbody>
 		<tr>
-				<td data-label="Nama">DASAR DESAIN GRAFIS</td>
+				<td data-label="pelajaran">DASAR DESAIN GRAFIS</td>
                 		<td data-label="JAM">7 : 25 -  09 : 10</td>
                 		<td data-label="GURU MAPEL">PAK WALY</td>
 		</tr>
@@ -446,8 +404,8 @@
           <li class="w3-dark-grey w3-xlarge w3-padding-32">Pro</li>
           <li class="w3-padding-16">ADA</li>
           <li class="w3-padding-16">ORANGTUA</li>
-          <li class="w3-padding-16">YANG HARUS DIBAHAGIAKAN</li>
-          <li class="w3-padding-16">Endless Support</li>
+          <li class="w3-padding-16">YANG HARUS</li>
+          <li class="w3-padding-16">DIBAHAGIAKAN</li>
           <li class="w3-padding-16">
             <h2>(●'◡'●)</h2>
             <span class="w3-opacity">DI kemudian HARI</span>
@@ -538,4 +496,5 @@
 
 <!-- END PAGE CONTENT -->
 </div>
-
+</body>
+</html>

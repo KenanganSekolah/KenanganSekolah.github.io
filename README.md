@@ -25,7 +25,7 @@
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
   <img src="XTKJ266.jpg" style="width:100%">
-  <a href="#rumah" class="w3-bar-item w3-button w3-padding-large w3-black">
+  <a href="#HOME" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>RUMAH</p>
   </a>
@@ -33,15 +33,15 @@
     <i class="fa fa-book w3-xxlarge"></i>
     <p>JADWAL</p>
   </a>
-  <a href="#tentang" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
     <p>TENTANG</p>
   </a>
-  <a href="#foto" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>
     <p>FOTO</p>
   </a>
-  <a href="#kontak" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="#contack" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>KONTAK</p>
   </a>
@@ -50,9 +50,9 @@
 <!-- Navbar on small screens (Hidden on medium and large screens) -->
 <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
   <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
-    <a href="#" class="w3-bar-item w3-button" style="width:20% !important">RUMAH</a>
+    <a href="#home" class="w3-bar-item w3-button" style="width:20% !important">RUMAH</a>
     <a href="#jadwal" class="w3-bar-item w3-button" style="width:20% !important">JADWAL</a>
-    <a href="#about" class="w3-bar-item w3-button" style="width:20% !important">TENTANG</a>
+    <a href="#about" class="w3-bar-item w3-button" style="width:20% !important">ABOUT</a>
     <a href="#photos" class="w3-bar-item w3-button" style="width:20% !important">FOTO</a>
     <a href="#contact" class="w3-bar-item w3-button" style="width:20% !important">KONTAK</a>
   </div>

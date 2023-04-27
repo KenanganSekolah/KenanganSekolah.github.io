@@ -74,28 +74,28 @@
 <table>
 	<thead>
 		<tr>
-			<th class="th"></th>
-                	<th class="th">SENIN</th>
-                	<th class="th"></th>
+				<th class="th"></th>
+                		<th class="th">SENIN</th>
+                		<th class="th"></th>
 		</tr>
 	</thead>
         <thead>
 		<tr>
-			<th class="th">PELAJARAN</th>
-                        <th class="th">JAM</th>
-                 	<th class="th">GURU MAPEL</th>
+				<th class="th">PELAJARAN</th>
+                        	<th class="th">JAM</th>
+                 		<th class="th">GURU MAPEL</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td data-label="Nama">SBK </td>
-                        <td data-label="JAM">8 : 00 - 9 : 10</td>
-                        <td data-label="GURU MAPEL">PAK DADANG</td>
+				<td data-label="Nama">SBK </td>
+                        	<td data-label="JAM">8 : 00 - 9 : 10</td>
+                        	<td data-label="GURU MAPEL">PAK DADANG</td>
 		</tr>
 		<tr>
-			<td data-label="Nama" class="td1">BAHASA JEPANG</td>
-			<td data-label="JAM" class="td1">9 : 10 – 9 : 45</td>
-                	<td data-label="GURU MAPEL" class="td1">SENSEI</td>
+				<td data-label="Nama" class="td1">BAHASA JEPANG</td>
+				<td data-label="JAM" class="td1">9 : 10 – 9 : 45</td>
+                		<td data-label="GURU MAPEL" class="td1">SENSEI</td>
 		</tr>
 		<tr>
 				<td data-label="Nama">ISTIRAHAT</td>
@@ -105,280 +105,280 @@
             	<tr>
 				<td data-label="Nama" class="td1">BAHASA JEPANG</td>
 				<td data-label="JAM" class="td1">10 : 15 – 10 : 50</td>
-                	<td data-label="GURU MAPEL" class="td1">SENSEI</td>
+                		<td data-label="GURU MAPEL" class="td1">SENSEI</td>
 		</tr>
-            <tr>
+            	<tr>
 				<td data-label="Nama">SISKOM</td>
 				<td data-label="JAM">10 : 50 – 12 : 00</td>
                 		<td data-label="GURU MAPEL">PAK ACI</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">ISTIRAHAT DZUHUR</td>
 				<td data-label="JAM" class="td1">12 : 00 - 12 : 30</td>
                 		<td data-label="GURU MAPEL" class="td1">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama">PAI</td>
 				<td data-label="JAM">12 : 30  - 13 : 40</td>
                 		<td data-label="GURU MAPEL">PAK IMAN</td>
-			</tr>
-		</tbody>
-	</table>
-    <br>
-    <table>
+		</tr>
+	</tbody>
+</table>
+   <br>
+<table>
 	<thead>
-			<tr>
+		<tr>
 				<th class="th"></th>
                 		<th class="th">SElASA</th>
                		 	<th class="th"></th>
-			</tr>
-		</thead>
-        <thead>
-			<tr>
+		</tr>
+	</thead>
+       	 <thead>
+		<tr>
 				<th class="th">PELAJARAN</th>
                 		<th class="th">JAM</th>
                 		<th class="th">GURU MAPEL</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 				<td data-label="Nama">SEJARAH</td>
                 		<td data-label="JAM">7 : 25 -  9 : 10 </td>
                 		<td data-label="GURU MAPEL">PAK EL</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama" class="td1">IFAS FISIKA</td>
 				<td data-label="JAM" class="td1">9 : 10 – 9 : 45</td>
                 		<td data-label="GURU MAPEL" class="td1">BU ATI</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama">ISTIRAHAT</td>
 				<td data-label="JAM">9 : 45 – 10 : 15</td>
                 		<td data-label="GURU MAPEL">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">IFAS FISIKA</td>
 				<td data-label="JAM" class="td1">10 : 15 – 11 : 25</td>
                 		<td data-label="GURU MAPEL" class="td1">BU ATI</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama">SKD</td>
 				<td data-label="JAM">11 : 25 - 12 : 00</td>
                 		<td data-label="GURU MAPEL">PAK ACI</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">ISTIRAHAT DZUHUR</td>
 				<td data-label="JAM" class="td1">12 : 00 - 12 : 30</td>
                 		<td data-label="GURU MAPEL" class="td1">-</td>
-			</tr>
-            <tr>
+		</tr>
+           	<tr>
 				<td data-label="Nama">SKD</td>
 				<td data-label="JAM">12 : 30  - 13 : 40</td>
                 		<td data-label="GURU MAPEL">PAK ACI</td>
-			</tr>
-		</tbody>
-	</table>
-    <br>
-    <table>
-		<thead>
-			<tr>
+		</tr>
+	</tbody>
+</table>
+  <br>
+<table>
+	<thead>
+		<tr>
 				<th class="th"></th>
                 		<th class="th">RABU</th>
                 		<th class="th"></th>
-			</tr>
-		</thead>
+		</tr>
+	</thead>
         <thead>
-			<tr>
+		<tr>
 				<th class="th">PELAJARAN</th>
                 		<th class="th">JAM</th>
                 		<th class="th">GURU MAPEL</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 				<td data-label="Nama">PEROGRAMAN DASAR</td>
                 		<td data-label="JAM">7 : 25 -  08 : 35</td>
                 		<td data-label="GURU MAPEL">PAK RUSLAN</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama" class="td1">PPKN</td>
 				<td data-label="JAM" class="td1">8 : 35 - 9 : 45</td>
                 		<td data-label="GURU MAPEL" class="td1">PAK EL</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama">ISTIRAHAT</td>
 				<td data-label="JAM">9 : 45 – 10 : 15</td>
                 		<td data-label="GURU MAPEL">-</td>
-			</tr>
+		</tr>
             <tr>
 				<td data-label="Nama" class="td1">BASA SUNDA</td>
 				<td data-label="JAM" class="td1">10 : 15 – 11 : 25</td>
                 		<td data-label="GURU MAPEL" class="td1">PAK DADANG</td>
-			</tr>
+		</tr>
             <tr>
 				<td data-label="Nama">PEROGRAMAN DASAR</td>
 				<td data-label="JAM">11 : 25 - 12 : 00</td>
                 		<td data-label="GURU MAPEL">PAK RUSLAN</td>
-			</tr>
+		</tr>
             <tr>
 				<td data-label="Nama" class="td1">ISTIRAHAT DZUHUR</td>
 				<td data-label="JAM" class="td1">12 : 00 - 12 : 30</td>
                 		<td data-label="GURU MAPEL" class="td1">-</td>
-			</tr>
+		</tr>
             <tr>
 				<td data-label="Nama">PBL</td>
 				<td data-label="JAM">12 : 30  - 13 : 40</td>
                 		<td data-label="GURU MAPEL">-</td>
-			</tr>
-		</tbody>
-	</table>
-    <br>
-	<table>
-		<thead>
-			<tr>
+		</tr>
+	</tbody>
+</table>
+  <br>
+<table>
+	<thead>
+		<tr>
 				<th class="th"></th>
                			 <th class="th">KAMIS</th>
                			 <th class="th"></th>
-			</tr>
-		</thead>
+		</tr>
+	</thead>
         <thead>
-			<tr>
+		<tr>
 				<th class="th">PELAJARAN</th>
                 		<th class="th">JAM</th>
                 		<th class="th">GURU MAPEL</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 				<td data-label="Nama">KJD</td>
                 		<td data-label="JAM">7 : 25 -  08 : 35</td>
                 		<td data-label="GURU MAPEL">PAK RUSLAN</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama" class="td1">PPKN</td>
 				<td data-label="JAM" class="td1">8 : 00 - 9 : 45</td>
                 		<td data-label="GURU MAPEL" class="td1">PAK ACI</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama">ISTIRAHAT</td>
 				<td data-label="JAM">9 : 45 – 10 : 15</td>
                 		<td data-label="GURU MAPEL">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">IPAS</td>
 				<td data-label="JAM" class="td1">10 : 15 – 12 : 00</td>
                			<td data-label="GURU MAPEL" class="td1">PAK DAIMAN</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">ISTIRAHAT DZUHUR</td>
 				<td data-label="JAM" class="td1">12 : 00 - 12 : 30</td>
                 		<td data-label="GURU MAPEL" class="td1">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama">PENJAS</td>
 				<td data-label="JAM">12 : 30  - 14 : 15</td>
                 		<td data-label="GURU MAPEL">PAK SULUNG</td>
-			</tr>
-		</tbody>
-	</table>
-    <br>
-	<table>
-		<thead>
-			<tr>
+		</tr>
+	</tbody>
+</table>
+  <br>
+<table>
+	<thead>
+		<tr>
 				<th class="th"></th>
                 		<th class="th">JUM'AT</th>
                 		<th class="th"></th>
-			</tr>
-		</thead>
+		</tr>
+	</thead>
         <thead>
-			<tr>
+		<tr>
 				<th class="th">PELAJARAN</th>
                 		<th class="th">JAM</th>
                 		<th class="th">GURU MAPEL</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 				<td data-label="Nama">MATEMATIKA</td>
                 		<td data-label="JAM">7 : 25 -  08 : 35 </td>
                 		<td data-label="GURU MAPEL">BU AMEL</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama" class="td1">PAI</td>
 				<td data-label="JAM" class="td1">8 : 35 - 9 : 45</td>
                 		<td data-label="GURU MAPEL" class="td1">PAK IMAN</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama">ISTIRAHAT</td>
 				<td data-label="JAM">9 : 45 – 10 : 15</td>
                			 <td data-label="GURU MAPEL">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">BAHASA INDONESIA</td>
 				<td data-label="JAM" class="td1">10 : 15 – 11 : 25</td>
                 		<td data-label="GURU MAPEL" class="td1">BU RENWY</td>
-			</tr>
-		</tbody>
-	</table>
-<br><br>
-    <table>
-		<thead>
-			<tr>
+		</tr>
+	</tbody>
+</table>
+ <br>
+<table>
+	<thead>
+		<tr>
 				<th class="th"></th>
-                <th class="th">SABTU</th>
-                <th class="th"></th>
-			</tr>
-		</thead>
+                		<th class="th">SABTU</th>
+                		<th class="th"></th>
+		</tr>
+	</thead>
         <thead>
-			<tr>
+		<tr>
 				<th class="th">PELAJARAN</th>
                 		<th class="th">JAM</th>
                 		<th class="th">GURU MAPEL</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 				<td data-label="Nama">DASAR DESAIN GRAFIS</td>
                 		<td data-label="JAM">7 : 25 -  09 : 10</td>
                 		<td data-label="GURU MAPEL">PAK WALY</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama" class="td1">BAHASA INGGRIS</td>
 				<td data-label="JAM" class="td1">9 : 10 – 9 : 45</td>
                		 	<td data-label="GURU MAPEL" class="td1">Ms SHENY</td>
-			</tr>
-			<tr>
+		</tr>
+		<tr>
 				<td data-label="Nama">ISTIRAHAT</td>
 				<td data-label="JAM">9 : 45 – 10 : 15</td>
                 		<td data-label="GURU MAPEL">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">BAHASA INGGRIS</td>
 				<td data-label="JAM" class="td1">10 : 15 – 11 : 25</td>
                			<td data-label="GURU MAPEL" class="td1">Ms SHENY</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama">BAHASA INDONESIA</td>
 				<td data-label="JAM">11 : 25 - 12 : 00</td>
                 		<td data-label="GURU MAPEL">BU RENWY</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">ISTIRAHAT DZUHUR</td>
 				<td data-label="JAM" class="td1">12 : 00 - 12 : 30</td>
                 		<td data-label="GURU MAPEL" class="td1">-</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama">BAHASA INDONESIA</td>
 				<td data-label="JAM">12 : 30  - 13 : 05</td>
                 		<td data-label="GURU MAPEL">BU RENWY</td>
-			</tr>
-            <tr>
+		</tr>
+            	<tr>
 				<td data-label="Nama" class="td1">MATEMATIKA</td>
 				<td data-label="JAM" class="td1">13  : 05 – 14 : 05</td>
                 		<td data-label="GURU MAPEL" class="td1">BU AMEL</td>
-			</tr>
-		</tbody>
-	</table>
+		</tr>
+	</tbody>
+</table>
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">X TKJ 2 (●'◡'●)</h2>

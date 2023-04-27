@@ -35,7 +35,7 @@
   </a>
   <a href="#tentang" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
-    <p>TTENTANG</p>
+    <p>TENTANG</p>
   </a>
   <a href="#foto" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>

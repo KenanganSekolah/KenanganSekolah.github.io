@@ -1,5 +1,4 @@
 #kenangansekolah.github.io
-<!DOCTYPE html>
 <html>
   <head>
     <title>X TKJ 2</title>

@@ -71,15 +71,15 @@
     <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="jadwal">
         <h2 class="w3-text-light-grey">Jadwal Pelajaran</h2>
         <hr style="width:200px" class="w3-opacity">
-	<table>
-		<thead>
-			<tr>
-				<th class="th"></th>
+<table>
+<thead>
+	<tr>
+		<th class="th"></th>
                 <th class="th">SENIN</th>
                 <th class="th"></th>
-			</tr>
-		</thead>
-        <thead>
+	</tr>
+</thead>
+<thead>
 			<tr>
 				<th class="th">PELAJARAN</th>
                 <th class="th">JAM</th>
@@ -236,7 +236,7 @@
 	</table>
     <br>
     <br>
-    <table>
+	<table>
 		<thead>
 			<tr>
 				<th class="th"></th>
@@ -254,18 +254,23 @@
 		<tbody>
 			<tr>
 				<td data-label="Nama">KJD</td>
-                <td data-label="JAM">8 : 00 - 9 : 45</td>
-                <td data-label="GURU MAPEL">PAK ACI</td>
+                <td data-label="JAM">7 : 25 -  08 : 35</td>
+                <td data-label="GURU MAPEL">PAK RUSLAN</td>
 			</tr>
 			<tr>
-				<td data-label="Nama" class="td1">ISTIRAHAT</td>
-				<td data-label="JAM" class="td1">9 : 45 – 10 : 15</td>
-                <td data-label="GURU MAPEL" class="td1">-</td>
+				<td data-label="Nama" class="td1">PPKN</td>
+				<td data-label="JAM" class="td1">8 : 00 - 9 : 45</td>
+                <td data-label="GURU MAPEL" class="td1">PAK ACI</td>
+			</tr>
+			<tr>
+				<td data-label="Nama">ISTIRAHAT</td>
+				<td data-label="JAM">9 : 45 – 10 : 15</td>
+                <td data-label="GURU MAPEL">-</td>
 			</tr>
             <tr>
-				<td data-label="Nama">IPAS</td>
-				<td data-label="JAM">10 : 15 – 12 : 00</td>
-                <td data-label="GURU MAPEL">PAK DAIMAN</td>
+				<td data-label="Nama" class="td1">IPAS</td>
+				<td data-label="JAM" class="td1">10 : 15 – 12 : 00</td>
+                <td data-label="GURU MAPEL" class="td1">PAK DAIMAN</td>
 			</tr>
             <tr>
 				<td data-label="Nama" class="td1">ISTIRAHAT DZUHUR</td>
@@ -278,6 +283,7 @@
                 <td data-label="GURU MAPEL">PAK SULUNG</td>
 			</tr>
 		</tbody>
+	</table>
     <br>
     <br>
     <table>

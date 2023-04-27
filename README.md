@@ -481,7 +481,7 @@
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
         <img src="XTKJ266.jpg" style="width:100%">
-        <img src="kb.JPG" style="width:100%">
+        <img src="bsbs.jpg" style="width:100%">
         <img src="bsbs.jpg" style="width:100%">
         <img src="TKJ2 (3).jpg" style="width:100%">
       </div>

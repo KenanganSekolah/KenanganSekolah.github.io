@@ -71,15 +71,15 @@
     <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="jadwal">
         <h2 class="w3-text-light-grey">Jadwal Pelajaran</h2>
         <hr style="width:200px" class="w3-opacity">
-<table>
-<thead>
-	<tr>
-		<th class="th"></th>
+	<table>
+		<thead>
+			<tr>
+				<th class="th"></th>
                 <th class="th">SENIN</th>
                 <th class="th"></th>
-	</tr>
-</thead>
-<thead>
+			</tr>
+		</thead>
+        <thead>
 			<tr>
 				<th class="th">PELAJARAN</th>
                 <th class="th">JAM</th>
@@ -124,8 +124,7 @@
 			</tr>
 		</tbody>
 	</table>
-    <br>
-    <br>
+    <br><br>
     <table>
 		<thead>
 			<tr>
@@ -179,8 +178,7 @@
 			</tr>
 		</tbody>
 	</table>
-    <br>
-    <br>
+    <br><br>
     <table>
 		<thead>
 			<tr>
@@ -234,8 +232,7 @@
 			</tr>
 		</tbody>
 	</table>
-    <br>
-    <br>
+    <br><br>
 	<table>
 		<thead>
 			<tr>
@@ -284,9 +281,8 @@
 			</tr>
 		</tbody>
 	</table>
-    <br>
-    <br>
-    <table>
+    <br><br>
+	<table>
 		<thead>
 			<tr>
 				<th class="th"></th>
@@ -304,12 +300,12 @@
 		<tbody>
 			<tr>
 				<td data-label="Nama">MATEMATIKA</td>
-                <td data-label="JAM">7 : 25 -  08 : 35</td>
+                <td data-label="JAM">7 : 25 -  08 : 35 </td>
                 <td data-label="GURU MAPEL">BU AMEL</td>
 			</tr>
-            <tr>
+			<tr>
 				<td data-label="Nama" class="td1">PAI</td>
-                <td data-label="JAM" class="td1">8 : 35 - 9 : 45</td>
+				<td data-label="JAM" class="td1">8 : 35 - 9 : 45</td>
                 <td data-label="GURU MAPEL" class="td1">PAK IMAN</td>
 			</tr>
 			<tr>
@@ -319,12 +315,12 @@
 			</tr>
             <tr>
 				<td data-label="Nama" class="td1">BAHASA INDONESIA</td>
-				<td data-label="JAM" class="td1">10 : 15 – 12 : 00</td>
+				<td data-label="JAM" class="td1">10 : 15 – 11 : 25</td>
                 <td data-label="GURU MAPEL" class="td1">BU RENWY</td>
+			</tr>
 		</tbody>
 	</table>
-    <br>
-    <br>
+<br><br>
     <table>
 		<thead>
 			<tr>
@@ -383,7 +379,6 @@
 			</tr>
 		</tbody>
 	</table>
-
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">X TKJ 2 (●'◡'●)</h2>

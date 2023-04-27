@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+#kenangansekolah.github.io
 <html>
   <head>
     <title>X TKJ 2</title>
@@ -45,7 +45,6 @@
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>CONTACT</p>
   </a>
-</a>
 </nav>
 
 <!-- Navbar on small screens (Hidden on medium and large screens) -->

@@ -25,7 +25,7 @@
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
   <img src="XTKJ266.jpg" style="width:100%">
-  <a href="#home" class="w3-bar-item w3-button w3-padding-large w3-black">
+  <a href="#rumah" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
   </a>
@@ -33,15 +33,15 @@
     <i class="fa fa-book w3-xxlarge"></i>
     <p>JADWAL</p>
   </a>
-  <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="#tentang" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-user w3-xxlarge"></i>
     <p>ABOUT</p>
   </a>
-  <a href="#photos" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="#foto" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-eye w3-xxlarge"></i>
     <p>PHOTOS</p>
   </a>
-  <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+  <a href="#kontak" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-envelope w3-xxlarge"></i>
     <p>CONTACT</p>
   </a>
@@ -61,7 +61,7 @@
 <!-- Page Content -->
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
-  <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+  <header class="w3-container w3-padding-32 w3-center w3-black" id="rumah">
     <h1 class="w3-jumbo"><span class="w3-hide-small">CLASS</span> X TKJ 2</h1>
     <p>INCARAN KELAS SEBELAH YANG PENUH DRAMA</p>
     <img src="XTKJ266.jpg" alt="boy" class="w3-image" width="992" height="1108">
@@ -338,7 +338,7 @@
 	</tbody>
 </table>
   <!-- About Section -->
-  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
+  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="tentang">
     <h2 class="w3-text-light-grey">X TKJ 2 (●'◡'●)</h2>
     <hr style="width:200px" class="w3-opacity">
     <p>Hallo selamat datang di dunia virtual kelas x tkj 2. Tujuan kami membuat web ini adalah untuk mengabadikan kenangan yang terjadi selama masa sekolah. TERIMAKASIH SUDAH BERKUNJUNG.</p>
@@ -431,7 +431,7 @@
   </div>
   
   <!-- Portfolio Section -->
-  <div class="w3-padding-64 w3-content" id="photos">
+  <div class="w3-padding-64 w3-content" id="foto">
     <h2 class="w3-text-light-grey">My Photos</h2>
     <hr style="width:200px" class="w3-opacity">
 
@@ -456,7 +456,7 @@
   </div>
 
   <!-- Contact Section -->
-  <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+  <div class="w3-padding-64 w3-content w3-text-grey" id="kontak">
     <h2 class="w3-text-light-grey">Contact Me</h2>
     <hr style="width:200px" class="w3-opacity">
 

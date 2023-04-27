@@ -435,7 +435,6 @@ KenanganSekolah.github.io
           <li class="w3-padding-16">DEMI MEWUJUDKAN</li>
           <li class="w3-padding-16">MASA DEPAN</li>
           <li class="w3-padding-16">YANG INDAH</li>
-          <li class="w3-padding-16">
             <h2>(●'◡'●)</h2>
             <span class="w3-opacity">setiap hari</span>
           </li>
@@ -452,7 +451,6 @@ KenanganSekolah.github.io
           <li class="w3-padding-16">ORANG TUA</li>
           <li class="w3-padding-16">YANG HARUS</li>
           <li class="w3-padding-16">DIBAHAGIAKAN</li>
-          <li class="w3-padding-16">
             <h2>(●'◡'●)</h2>
             <span class="w3-opacity">di kemudian hari</span>
           </li>

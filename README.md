@@ -1,4 +1,3 @@
-KenanganSekolah.github.io
 <html>
   <head>
     <title>X TKJ 2</title>

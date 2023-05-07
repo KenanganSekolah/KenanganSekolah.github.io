@@ -420,7 +420,7 @@
     
     <!-- Testimonials -->
     <h3 class="w3-padding-24 w3-text-light-grey">PENANGGUNG JAWAB</h3>  
-    <img src="https://www.w3schools.com/w3images/bandmember.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="pk iman1.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">Bpk. ABDURRAHIM</span>WALI KELAS</p>
     <p>DAN GURU PAI.</p><br>
     

@@ -424,7 +424,7 @@
     <p><span class="w3-large w3-margin-right">Bpk. ABDURRAHIM</span>WALI KELAS</p>
     <p>DAN GURU PAI.</p><br>
     
-    <img src="https://www.w3schools.com/w3images/avatar_g2.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+    <img src="MG-20230507-WA0009v.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-margin-right">ELNA NURSUSANTI</span> KETUA KELAS</p>
     <p>CEO OF EMAK EMAK KELAS.</p>
   <!-- End About Section -->

@@ -448,7 +448,7 @@
         <img src="TKJ2 (6).jpg" style="width:100%">
         <img src="ll.jpg" style="width:100%">
         <img src="TKJ2 (1).jpg" style="width:100%">
-        <a class="w3-button w3-round-xxlarge w3-small w3-light-grey" href="DOKUMENTASI.html" target="_blank">LAINNYA</a>
+        <a class="w3-button w3-round-xxlarge w3-small w3-light-grey" href="Dokumentasi X TKJ 2.html" target="_blank">LAINNYA</a>
       </div>
     <!-- End photo grid -->
     </div>
